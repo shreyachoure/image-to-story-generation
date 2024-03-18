@@ -1,7 +1,9 @@
 # Image to Story Generation Script
 
 ## Overview
-This script utilizes the Transformers library to transform images into descriptive texts and then generates stories based on these descriptions. It employs a combination of image-to-text and text generation models to create engaging narratives from input images.
+1. Developed a Python script leveraging the Transformers library to convert images into descriptive texts and generate engaging stories, demonstrating proficiency in AI and machine learning.
+2. Integrated advanced image-to-text and text generation models (Salesforce/blip-image-captioning-base and bigscience/bloomz-1b7) to automate content creation, enhancing efficiency in storytelling from visual inputs.
+3. Tested and optimized the script to ensure reliability and performance, showcasing the ability to deliver innovative solutions in content generation and AI application development.
 
 ## Installation
 
